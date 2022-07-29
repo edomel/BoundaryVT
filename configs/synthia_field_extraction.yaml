@@ -1,0 +1,14 @@
+DATA_DIR: "<synthia_folder>"
+NUM_WORKERS: 90
+METHOD_TYPE: "VT"
+METHOD_NAME: "vt_synthia"
+DATASET_STRUCTURE:
+  DATASET_NAME: "synthia"
+  IMAGE: "RGB"
+  IMAGE_EXT: "png"
+  PANOPTIC: "GT/COLOR"
+  PANOPTIC_EXT: "png"
+  ANGLE: "GT/ANGLE"
+  ANGLE_EXT: "png"
+  DT: "GT/DT"
+  DT_EXT: "png"

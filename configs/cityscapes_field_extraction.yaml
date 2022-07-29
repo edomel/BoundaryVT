@@ -1,0 +1,14 @@
+DATA_DIR: "<cityscapes_folder>"
+NUM_WORKERS: 90
+METHOD_TYPE: "VT"
+METHOD_NAME: "vt_cityscapes"
+DATASET_STRUCTURE:
+  DATASET_NAME: "cityscapes"
+  IMAGE: "leftImg8bit"
+  IMAGE_EXT: "png"
+  PANOPTIC: "gtFine_panoptic"
+  PANOPTIC_EXT: "png"
+  ANGLE: "gtFine_angle"
+  ANGLE_EXT: "png"
+  DT: "gtFine_dt"
+  DT_EXT: "png"

@@ -1,0 +1,14 @@
+DATA_DIR: "<mapillary_folder>"
+NUM_WORKERS: 90
+METHOD_TYPE: "VT"
+METHOD_NAME: "vt_mapillary"
+DATASET_STRUCTURE:
+  DATASET_NAME: "mapillary"
+  IMAGE: "images"
+  IMAGE_EXT: "jpg"
+  PANOPTIC: "v2.0/panoptic"
+  PANOPTIC_EXT: "png"
+  ANGLE: "v2.0/angle"
+  ANGLE_EXT: "png"
+  DT: "v2.0/dt"
+  DT_EXT: "png"
