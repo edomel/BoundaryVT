@@ -2,6 +2,8 @@
 
 [[OpenReview]](https://openreview.net/forum?id=nxcABL7jbQh)[[Arxiv]](https://arxiv.org/abs/2203.08795)
 
+Boundary detection code based on VT representation enabling to predict always crisp boundaries.
+
 ![method_fig](figs/vt_method.png)
 
 ## Results
