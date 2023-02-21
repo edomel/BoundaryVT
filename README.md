@@ -92,4 +92,4 @@ If you use the Vector Transform (VT) in your code, please use the following BibT
 
 ## Acknowledgement
 
-The code uses several pieces of open source code or libraries, such as [Detectron2](https://github.com/facebookresearch/detectron2), [HRNet](https://github.com/HRNet), [Panopric DeepLab](https://github.com/bowenc0221/panoptic-deeplab).
+The code uses several pieces of open source code or libraries, such as [Detectron2](https://github.com/facebookresearch/detectron2), [HRNet](https://github.com/HRNet), [Panoptic DeepLab](https://github.com/bowenc0221/panoptic-deeplab).
