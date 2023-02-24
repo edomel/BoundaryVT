@@ -75,7 +75,7 @@ To evaluate a trained checkpoint it is necessary to adapt the config file settin
 python main.py --config_file <config_file> -b 1
 ```
 
-Pretrained models for evaluation can be found inside `pretrained_models\`.
+Pretrained models for evaluation can be found inside `pretrained_models/`.
 
 ## Citing
 
